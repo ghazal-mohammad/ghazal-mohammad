@@ -32,10 +32,11 @@ A structured software engineering project focusing on system design and developm
 
 ---
 
-## 📂 Projects I'm Building
+## 📂 Projects I'm Working On
 - ✅ Advanced Banking System (Engineering Project)
-- 🔄 Flutter apps (Coming soon)
+- 🏛️ Civil Registry Automation System — In progress (Team project)
 - 🌐 Portfolio Website (HTML/CSS) — In progress
+- 📱 Flutter apps (Coming soon)
 
 ---
 
