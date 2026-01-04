@@ -48,5 +48,6 @@ A structured software engineering project focusing on system design and developm
 
 ## 🌍 Connect With Me
 📧 Email: mohammadghazal423@gmail.com  
-💼 LinkedIn: (ضعّي رابطك هون)
-🌐 Portfolio: (رح نحطه بعد ما نخلص الموقع)
+💼 LinkedIn: ()
+🌐 Portfolio: ()
+
