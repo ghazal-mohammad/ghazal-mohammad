@@ -20,6 +20,10 @@ I enjoy working on **real-world systems**, implementing strong architectures, an
 - **Firebase / REST APIs**
 - **Git & GitHub**
 - **UI/UX:** Responsive Layouts, Clean UI
+- ### 🔧 Current Tasks (Dev)
+- Planning architecture & system modules
+- Defining requirements and workflows
+- Preparing UI structure & navigation
 
 ---
 
