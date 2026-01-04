@@ -1,7 +1,7 @@
-# Hi, I'm Ghazal Mohammad 👩‍💻✨  
+# Hi, I'm Ghazal Mohammad 👩‍💻  
 ### Flutter Developer | Software Engineer | Information Engineering Graduate
 
-I'm a passionate **Flutter Developer** focused on building clean, responsive, and scalable mobile applications.  
+I’m a passionate **Flutter Developer** focused on building clean, responsive, and scalable mobile applications.  
 I enjoy working on **real-world systems**, implementing strong architectures, and delivering professional UI/UX.
 
 ---
@@ -9,14 +9,14 @@ I enjoy working on **real-world systems**, implementing strong architectures, an
 ## 🚀 What I Do
 - 📱 Build mobile apps using **Flutter & Dart**
 - 🧠 Apply **software engineering principles** (OOP, Clean Code, Architecture)
-- 🔗 Work with APIs and backend integration
-- 🗄️ Design structured systems and databases (when needed)
+- 🔗 Integrate apps with **APIs & Firebase**
+- 🗄️ Work with structured data and system design (when needed)
 
 ---
 
 ## 🧰 Tech Stack
 - **Flutter / Dart**
-- **State Management:** Provider / Bloc (choose what you use)
+- **State Management:** Provider, Bloc, GetX
 - **Firebase / REST APIs**
 - **Git & GitHub**
 - **UI/UX:** Responsive Layouts, Clean UI
@@ -33,9 +33,9 @@ A structured software engineering project focusing on system design and developm
 ---
 
 ## 📂 Projects I'm Building
-- ✅ Banking System (Engineering Project)
+- ✅ Advanced Banking System (Engineering Project)
 - 🔄 Flutter apps (Coming soon)
-- 📌 Portfolio Website (HTML/CSS) — In progress
+- 🌐 Portfolio Website (HTML/CSS) — In progress
 
 ---
 
@@ -48,6 +48,7 @@ A structured software engineering project focusing on system design and developm
 
 ## 🌍 Connect With Me
 📧 Email: mohammadghazal423@gmail.com  
-💼 LinkedIn: ()
-🌐 Portfolio: ()
+💬 WhatsApp: [Chat on WhatsApp](https://wa.me/963937879247)
 
+💼 LinkedIn: (will be added soon)  
+🌐 Portfolio: (coming soon)
