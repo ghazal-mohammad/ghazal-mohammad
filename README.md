@@ -56,4 +56,4 @@ A structured software engineering project focusing on system design and developm
 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/963937879247)
 
 💼 LinkedIn: (will be added soon)  
-🌐 Portfolio: (coming soon)
+🌐 Portfolio: (https://mellifluous-sunshine-88e94f.netlify.app/)
