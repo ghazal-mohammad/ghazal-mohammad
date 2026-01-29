@@ -20,7 +20,7 @@ My work focuses on:
 
 ## Portfolio
 🌐 **Personal Portfolio Website**  
-👉 https://mellifluous-sunshine-88e94f.netlify.app/
+👉 https://ghazal-mohammad.github.io/portfolio/
 
 ---
 
